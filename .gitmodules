@@ -1,0 +1,3 @@
+[submodule "libs/wpfgui"]
+	path = libs/wpfgui
+	url = https://github.com/dgsfg88/wpfgui.git
